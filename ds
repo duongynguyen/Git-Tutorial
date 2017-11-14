@@ -1,0 +1,30 @@
+[33mcommit 2c8347d3ca02a8f1f2c4668a61745e230471fe05[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5ce10fb 528c98c
+Author: nguyenduong <duongynguyen0501@gmail.com>
+Date:   Mon Oct 23 16:10:52 2017 +0700
+
+    merge
+
+[33mcommit 528c98c11d96f96173f4cee8622979cc2a38a1c5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nguyenduong <duongynguyen0501@gmail.com>
+Date:   Mon Oct 23 16:00:04 2017 +0700
+
+    Them giai thich pull
+
+[33mcommit 5ce10fbd3f62c4ca559ac23d46e5f23914c57149[m
+Author: nguyenduong <duongynguyen0501@gmail.com>
+Date:   Mon Oct 23 15:45:02 2017 +0700
+
+    Them giai thich commit
+
+[33mcommit 9a0c2c6ce4a88d8655d611e36ebb62f941b2086f[m
+Author: Nguyen Duong <duongynguyen0501@gmail.com>
+Date:   Wed Oct 18 22:28:28 2017 +0700
+
+    Them giai thich add
+
+[33mcommit c12d65a6391096c7e245480093bbd1296e0eb42d[m
+Author: Nguyen Duong <duongynguyen0501@gmail.com>
+Date:   Tue Oct 17 22:29:51 2017 +0700
+
+    first commit
