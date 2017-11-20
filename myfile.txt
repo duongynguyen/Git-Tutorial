@@ -1,4 +1,8 @@
 Den con de cung hieu duoc git
 fix issus
 git 123
+<<<<<<< HEAD
 fix issue again
+=======
+what??
+>>>>>>> nguyen
